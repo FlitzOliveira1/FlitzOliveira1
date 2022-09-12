@@ -23,5 +23,4 @@
   <a href="https://www.facebook.com/javasunrize" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>  
   </div>
   
-  
-![Snake animation](https://github.com/FlitzOliveira1/FlitzOliveira1/blob/output/github-contribution-grid-snake.svg)
+ 
