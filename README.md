@@ -24,3 +24,4 @@
   </div>
   
   
+![Snake animation](https://github.com/FlitzOliveira1/FlitzOliveira1/blob/output/github-contribution-grid-snake.svg)
