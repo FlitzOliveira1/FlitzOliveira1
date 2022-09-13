@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=flitzoliveira1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flitzoliveira1&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/FlitzOliveira1">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FlitzOliveira1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlitzOliveira1&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
   ##
