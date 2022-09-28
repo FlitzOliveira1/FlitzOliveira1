@@ -11,7 +11,7 @@
   <img align="center" alt="Flitz-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   </div>
   
-  ###
+  ##
   
  
   
