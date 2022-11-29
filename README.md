@@ -6,7 +6,7 @@
 
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Flitz-Java" height="60" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+  <img align="center" alt="Flitz-Java" height="80" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
     <img align="center" alt="Flitz-Csharp" height="40" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
     <img align="center" alt="Flitz-Angular" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
     <img align="center" alt="Flitz-python" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
