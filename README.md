@@ -6,5 +6,6 @@
 
  
  <div align="center">
- <a href="https://flitzso.vercel.app/">https://flitzso.vercel.app/</a>
+ <a href="https://flitzso.vercel.app/">flitzso.vercel.app</a> <br />
+   <a href="https://soundpanel.vercel.app/">soundpanel.vercel.app</a>
 </div>
