@@ -6,5 +6,5 @@
 
  
  <div align="center">
- <h1>My Portfolio: https://flitzso.vercel.app/</h1>
+ <a href="https://flitzso.vercel.app/">https://flitzso.vercel.app/</a>
 </div>
