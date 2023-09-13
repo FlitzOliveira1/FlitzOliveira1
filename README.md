@@ -9,5 +9,5 @@
    <a href="https://flitzso.vercel.app/">flitzso.vercel.app</a> <br />
    <a href="https://soundpanel.vercel.app/">soundpanel.vercel.app</a> <br />
    <a href="https://bancoagora.vercel.app/">bancoagora.vercel.app</a> <br />
-   <a href="https://flitz-kotlin.vercel.app/">bancoagora.vercel.app</a>
+   <a href="https://flitz-kotlin.vercel.app/">flitz-kotlin.vercel.app</a>
 </div>
