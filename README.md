@@ -5,7 +5,7 @@
   <img height="191em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flitzso&layout=compact&langs_count=10&theme=dark"/>
 </div>
     <div align="center">
-<img src="https://komarev.com/ghpvc/?username=flitzso-github-username&color=green" />
+<img height="25em" src="https://komarev.com/ghpvc/?username=flitzso-github-username&color=blue" />
     </div>
  
 
