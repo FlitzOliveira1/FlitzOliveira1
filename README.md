@@ -13,7 +13,7 @@
  <a href="https://github.com/flitzso/Hotel81-backend" >Backend Hotel81</a> <br />
  <a href="https://github.com/flitzso/iBUS-backend" >Backend iBUS</a> <br />
  <a href="https://github.com/flitzso/MediMais-backend" >Backend MediMais</a> <br />
-  <a href="https://github.com/flitzso/modelando-dados-mysql-java" >Modelando dados Spring Boot + MySQL</a> <br />
+ <a href="https://github.com/flitzso/modelando-dados-mysql-java" >Modelando dados Spring Boot + MySQL</a> <br />
 </div>
 <br />
 <div>
