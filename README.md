@@ -15,3 +15,9 @@
  <a href="https://github.com/flitzso/MediMais-backend" >Backend MediMais</a> <br />
   <a href="https://github.com/flitzso/modelando-dados-mysql-java" >Modelando dados Spring Boot + MySQL</a> <br />
 </div>
+
+<div>
+<img width="50" height="50" src="https://github.com/flitzso/flitzso/assets/106411702/8f5f7b56-7f70-4e40-9f88-93757f40775d)/"> <br />
+ <a href="https://github.com/flitzso/quizcode-kotlin-android" >Puzzle QuizCode</a> <br />
+ <a href="https://flitz-kotlin.vercel.app/ " >Site com varios exemplos</a> <br />
+</div>
