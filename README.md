@@ -21,3 +21,10 @@
  <a href="https://github.com/flitzso/quizcode-kotlin-android" >Puzzle QuizCode</a> <br />
  <a href="https://flitz-kotlin.vercel.app/ " >Site com varios exemplos</a> <br />
 </div>
+<br />
+<img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/572a85f1-392b-40a6-b9d8-23018d4d8558/"> <br />
+ <a href="https://github.com/flitzso/iBUS-frontend" >iBUS</a> <br />
+ <a href="https://github.com/flitzso/Hotel81-frontend">Hotel81</a> <br />
+ <a href="https://github.com/flitzso/MediMais-frontend">MediMais</a> <br /> 
+ 
+</div>
