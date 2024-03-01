@@ -26,5 +26,6 @@
  <a href="https://github.com/flitzso/iBUS-frontend" >iBUS</a> <br />
  <a href="https://github.com/flitzso/Hotel81-frontend">Hotel81</a> <br />
  <a href="https://github.com/flitzso/MediMais-frontend">MediMais</a> <br /> 
- 
+ <a href="https://bancoagora.vercel.app/">BancoAgora</a> <br />
+ <a href="https://soundpanel.vercel.app/">SoundPanel</a> <br />
 </div>
