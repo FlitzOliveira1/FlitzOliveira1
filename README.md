@@ -6,8 +6,8 @@
   <a href="https://github.com/flitzso">
   <img src="https://github-readme-stats.vercel.app/api?username=flitzso&show_icons=true&theme=dark" alt="GitHub Streak" />
   <img height="191em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flitzso&layout=compact&langs_count=10&theme=dark"/>
-</div>
-
+  </div>
+  <br />
 <div>
 <img width="50" height="50" src="https://github.com/flitzso/flitzso/assets/106411702/29b1dad1-6aa1-4ff6-86ec-cc28f23b4931 /"> <br />
  <a href="https://github.com/flitzso/Hotel81-backend" >Backend Hotel81</a> <br />
@@ -15,7 +15,7 @@
  <a href="https://github.com/flitzso/MediMais-backend" >Backend MediMais</a> <br />
   <a href="https://github.com/flitzso/modelando-dados-mysql-java" >Modelando dados Spring Boot + MySQL</a> <br />
 </div>
-
+<br />
 <div>
 <img width="50" height="50" src="https://github.com/flitzso/flitzso/assets/106411702/8f5f7b56-7f70-4e40-9f88-93757f40775d)/"> <br />
  <a href="https://github.com/flitzso/quizcode-kotlin-android" >Puzzle QuizCode</a> <br />
