@@ -30,10 +30,17 @@
  <a href="https://soundpanel.vercel.app/">SoundPanel</a> <br />
 </div>
 <br />
+<div>
 <img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/74c354c7-c2df-4b58-bb69-60eed8a9535e"> <br />
  <a href="https://github.com/flitzso/aws-ec2" >EC2</a> <br />
 </div>
 <br />
+<div>
 <img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/fccfe5b0-5f11-4308-945d-f903a28b80a5"> <br />
  <a href="https://github.com/flitzso/redes-de-computadores" >Rede De Computadores</a> <br />
+</div>
+<br />
+<div>
+<img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/b2f6a2ee-1e65-4651-b615-88efd19f52e4"> <br />
+ <a href="https://github.com/flitzso/databases-application-properties" >DataBase</a> <br />
 </div>
