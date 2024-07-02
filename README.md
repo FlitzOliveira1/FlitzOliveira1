@@ -11,19 +11,14 @@
 
  <div class="PHP">
    <a href="https://github.com/flitzso?tab=repositories&q=&type=&language=php&sort=" >
- <img width="80" height="80" src="https://github.com/flitzso/flitzso/assets/106411702/a77e66d2-7629-4b34-bb40-44526620a32f/"></a> <br />
-
+   <img width="80" height="80" src="https://github.com/flitzso/flitzso/assets/106411702/a77e66d2-7629-4b34-bb40-44526620a32f/"></a>
 </div>
     
    <div class="Javascript">
-<img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/572a85f1-392b-40a6-b9d8-23018d4d8558/"> <br />
- <a href="https://github.com/flitzso/iBUS-frontend" >iBUS</a> <br />
- <a href="https://github.com/flitzso/Hotel81-frontend">Hotel81</a> <br />
- <a href="https://github.com/flitzso/MediMais-frontend">MediMais</a> <br /> 
- <a href="https://bancoagora.vercel.app/">BancoAgora</a> <br />
- <a href="https://soundpanel.vercel.app/">SoundPanel</a> <br />
-</div>
-    <br />
+     <a href="https://github.com/flitzso?tab=repositories&q=&type=&language=javascript&sort=" >
+     <img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/572a85f1-392b-40a6-b9d8-23018d4d8558/"> 
+  </div>
+       
 <div class="Java">
 <img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/29b1dad1-6aa1-4ff6-86ec-cc28f23b4931 /"> <br />
  <a href="https://github.com/flitzso/Hotel81-backend" >Backend Hotel81</a> <br />
