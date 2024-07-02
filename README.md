@@ -23,11 +23,11 @@
   <a href="https://github.com/flitzso?tab=repositories&q=&type=&language=java&sort=" >
   <img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/29b1dad1-6aa1-4ff6-86ec-cc28f23b4931 /">
 </div>
-<br />
+
+    
 <div class="kotlin">
-<img width="50" height="50" src="https://github.com/flitzso/flitzso/assets/106411702/8f5f7b56-7f70-4e40-9f88-93757f40775d)/"> <br />
- <a href="https://github.com/flitzso/quizcode-kotlin-android" >Puzzle QuizCode</a> <br />
- <a href="https://flitz-kotlin.vercel.app/ " >Site com varios exemplos</a> <br />
+  <a href="https://github.com/flitzso?tab=repositories&q=&type=&language=kotlin&sort=" >
+  <img width="50" height="50" src="https://github.com/flitzso/flitzso/assets/106411702/8f5f7b56-7f70-4e40-9f88-93757f40775d)/">
 </div>
 <br />
 <div class="AWS">
