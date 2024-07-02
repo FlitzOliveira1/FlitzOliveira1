@@ -29,12 +29,12 @@
   <a href="https://github.com/flitzso?tab=repositories&q=&type=&language=kotlin&sort=" >
   <img width="50" height="50" src="https://github.com/flitzso/flitzso/assets/106411702/8f5f7b56-7f70-4e40-9f88-93757f40775d)/">
 </div>
-<br />
+
 <div class="AWS">
-<img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/74c354c7-c2df-4b58-bb69-60eed8a9535e"> <br />
- <a href="https://github.com/flitzso/aws-ec2" >EC2</a> <br />
+<img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/74c354c7-c2df-4b58-bb69-60eed8a9535e">
+ <a href="https://github.com/flitzso/aws-ec2" >
 </div>
-<br />
+
 <div class="Redes">
 <img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/fccfe5b0-5f11-4308-945d-f903a28b80a5"> <br />
  <a href="https://github.com/flitzso/redes-de-computadores" >Rede De Computadores</a> <br />
