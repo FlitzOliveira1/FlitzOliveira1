@@ -41,6 +41,6 @@
 </div>
 
 <div class="DataBase">
-<img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/b2f6a2ee-1e65-4651-b615-88efd19f52e4"> <br />
- <a href="https://github.com/flitzso/databases-application-properties" >DataBase</a> <br />
+  <a href="https://github.com/flitzso/databases-application-properties" >
+  <img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/b2f6a2ee-1e65-4651-b615-88efd19f52e4"> <br />
 </div>
