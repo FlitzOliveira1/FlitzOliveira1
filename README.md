@@ -36,10 +36,10 @@
 </div>
 
 <div class="Redes">
-<img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/fccfe5b0-5f11-4308-945d-f903a28b80a5"> <br />
- <a href="https://github.com/flitzso/redes-de-computadores" >Rede De Computadores</a> <br />
+  <a href="hhttps://github.com/flitzso/redes-de-computadores" >
+  <img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/fccfe5b0-5f11-4308-945d-f903a28b80a5">
 </div>
-<br />
+
 <div class="DataBase">
 <img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/b2f6a2ee-1e65-4651-b615-88efd19f52e4"> <br />
  <a href="https://github.com/flitzso/databases-application-properties" >DataBase</a> <br />
