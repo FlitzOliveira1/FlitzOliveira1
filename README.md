@@ -20,11 +20,8 @@
   </div>
        
 <div class="Java">
-<img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/29b1dad1-6aa1-4ff6-86ec-cc28f23b4931 /"> <br />
- <a href="https://github.com/flitzso/Hotel81-backend" >Backend Hotel81</a> <br />
- <a href="https://github.com/flitzso/iBUS-backend" >Backend iBUS</a> <br />
- <a href="https://github.com/flitzso/MediMais-backend" >Backend MediMais</a> <br />
- <a href="https://github.com/flitzso/modelando-dados-mysql-java" >Modelando dados Spring Boot + MySQL</a> <br />
+  <a href="https://github.com/flitzso?tab=repositories&q=&type=&language=java&sort=" >
+  <img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/29b1dad1-6aa1-4ff6-86ec-cc28f23b4931 /">
 </div>
 <br />
 <div class="kotlin">
