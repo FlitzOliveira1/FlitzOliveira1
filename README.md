@@ -31,8 +31,8 @@
 </div>
 
 <div class="AWS">
-<img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/74c354c7-c2df-4b58-bb69-60eed8a9535e">
- <a href="https://github.com/flitzso/aws-ec2" >
+  <a href="https://github.com/flitzso/aws-ec2" >
+  <img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/74c354c7-c2df-4b58-bb69-60eed8a9535e">
 </div>
 
 <div class="Redes">
