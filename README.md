@@ -36,7 +36,7 @@
 </div>
 
 <div class="Redes">
-  <a href="hhttps://github.com/flitzso/redes-de-computadores" >
+  <a href="https://github.com/flitzso/redes-de-computadores" >
   <img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/fccfe5b0-5f11-4308-945d-f903a28b80a5">
 </div>
 
