@@ -20,6 +20,9 @@
   <!--AWS-->
   <a href="https://github.com/flitzso/aws-ec2" >
   <img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/74c354c7-c2df-4b58-bb69-60eed8a9535e">
+
+  <!--Docker-->
+  <img width="80" height="30" src="https://github.com/flitzso/flitzso/assets/106411702/dbb1fe5f-9a1d-49ec-a34a-2e47d39c1cec">
 </div>
 
 
