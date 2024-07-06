@@ -19,33 +19,11 @@
   <img width="70" height="50" src="https://github.com/flitzso/flitzso/assets/106411702/6f6ab9ec-6f98-45b0-9e1d-d47e8865be2d/">
 </div>
     
-   <div class="Javascript">
-     <a href="https://github.com/flitzso?tab=repositories&q=&type=&language=javascript&sort=" >
-     <img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/572a85f1-392b-40a6-b9d8-23018d4d8558/"> 
-  </div>
-       
-<div class="Java">
-  <a href="https://github.com/flitzso?tab=repositories&q=&type=&language=java&sort=" >
-  <img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/29b1dad1-6aa1-4ff6-86ec-cc28f23b4931 /">
-</div>
 
-    
-<div class="kotlin">
-  <a href="https://github.com/flitzso?tab=repositories&q=&type=&language=kotlin&sort=" >
-  <img width="50" height="50" src="https://github.com/flitzso/flitzso/assets/106411702/8f5f7b56-7f70-4e40-9f88-93757f40775d)/">
-</div>
 
 <div class="AWS">
   <a href="https://github.com/flitzso/aws-ec2" >
   <img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/74c354c7-c2df-4b58-bb69-60eed8a9535e">
 </div>
 
-<div class="Redes">
-  <a href="https://github.com/flitzso/redes-de-computadores" >
-  <img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/fccfe5b0-5f11-4308-945d-f903a28b80a5">
-</div>
 
-<div class="DataBase">
-  <a href="https://github.com/flitzso/databases-application-properties" >
-  <img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/b2f6a2ee-1e65-4651-b615-88efd19f52e4"> <br />
-</div>
