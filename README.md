@@ -9,20 +9,9 @@
   </div>
   <br />
 
-   <!--PHP-->
-   <a href="https://github.com/flitzso?tab=repositories&q=&type=&language=php&sort=" >
-   <img width="80" height="80" src="https://github.com/flitzso/flitzso/assets/106411702/a77e66d2-7629-4b34-bb40-44526620a32f/"></a>
+   <!--Stack-->
+   <img width="" height="" src="https://github.com/flitzso/flitzso/assets/106411702/6b09e79c-e3fc-4e36-8ad8-5031e7664d1a">
 
-  <!--Go-->
-  <a href="https://github.com/flitzso?tab=repositories&q=&type=&language=go&sort=" >
-  <img width="70" height="50" src="https://github.com/flitzso/flitzso/assets/106411702/6f6ab9ec-6f98-45b0-9e1d-d47e8865be2d/">
-
-  <!--AWS-->
-  <a href="https://github.com/flitzso/aws-ec2" >
-  <img width="70" height="70" src="https://github.com/flitzso/flitzso/assets/106411702/74c354c7-c2df-4b58-bb69-60eed8a9535e">
-
-  <!--Docker-->
-  <img width="80" height="30" src="https://github.com/flitzso/flitzso/assets/106411702/dbb1fe5f-9a1d-49ec-a34a-2e47d39c1cec">
 </div>
 
 
