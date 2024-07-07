@@ -29,6 +29,8 @@
   <img src="https://img.shields.io/badge/Ratchet-9B59B6?style=flat-square&logo=php&logoColor=white" alt="Ratchet Badge">
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT Badge">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux Badge">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx Badge">
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache Badge">
 </div>
   <div align="center">
      <img height="30em" src="https://komarev.com/ghpvc/?username=flitzso-github-username&color=blue" />
