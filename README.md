@@ -37,6 +37,11 @@
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell Badge" width="95">
 </div>
 
+<div>
+  <h1>🏆 GitHub Trophies</h1>
+ <img src="https://github-profile-trophy.vercel.app/?username=seunome"/>
+</div>
+
 <div align="center">
   <a href="https://github.com/flitzso">
   <img height="191em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flitzso&layout=compact&langs_count=10&theme=dark"/>
