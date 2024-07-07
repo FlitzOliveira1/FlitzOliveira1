@@ -48,18 +48,3 @@
   </div>
   <br />
 </div>
-
-<div>
-  <h2>Go</h2>
-  <a href="https://github.com/flitzso/picpay-desafio-backend-golang">Desafio PicPay</a> <br />
-  <a href="https://github.com/flitzso/docker-golang">Docker + GoLang</a> <br />
-  <a href="https://github.com/flitzso/websocket-golang">Websocket GoLang</a> <br />
-</div>
-
-<div>
-  <h2>PHP</h2>
-  <a href="https://github.com/flitzso/ecommerce-laravel">E-commerce laravel</a> <br />
-  <a href="https://github.com/flitzso/hotel-reservation-laravel">Hotel reserva</a> <br />
-  <a href="https://github.com/flitzso/email-php-mysql">Envio de email</a> <br />
-  <a href="https://github.com/flitzso/websocket-php-ratchet-chat">Websocket chat com Ratchet</a> <br />
-</div>
