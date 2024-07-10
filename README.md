@@ -2,6 +2,7 @@
   <h2>🌐 Socials</h2>
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Badge">
+  <img src="https://img.shields.io/badge/Twitch-%239146FF?style=flat-square&logo=twitch&logoColor=white" alt="Twitch Badge">
 </div>
 <div>
   <h1>💻 Main Tech</h1>
