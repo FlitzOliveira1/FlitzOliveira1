@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell Badge" width="95">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="PowerShell Badge" width="75">
   <img src="https://img.shields.io/badge/REST-API-blue?style=for-the-badge" alt="REST Badge" width="97">
- <img src="https://img.shields.io/badge/Webhook-enabled-brightgreen?style=for-the-badge" alt="Webhook Badge" width="160">
+ <img src="https://img.shields.io/badge/Webhook-brightgreen?style=for-the-badge" alt="Webhook Badge" width="85">
 </div>
 
 <div>
