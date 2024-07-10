@@ -51,7 +51,7 @@
 
 <div>
   <h1>🏆 GitHub Trophies</h1>
- <img src="https://github-profile-trophy.vercel.app/?username=seunome"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=flitzso"/>
 </div>
 
 </div>
