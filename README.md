@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js Badge" width="95">
   <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" alt="Vuetify Badge" width="100">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge" width="102">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" width="136">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Badge" width="53">
 </div>
 
@@ -47,6 +46,7 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang Badge" width="63">
   <img src="https://img.shields.io/badge/Swoole-007ACC?style=flat-square&logo=swoole&logoColor=white" alt="Swoole Badge" width="70">
   <img src="https://img.shields.io/badge/Kali%20Linux-green?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux Badge" width="115">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" width="136">
 </div>
 
 <div>
