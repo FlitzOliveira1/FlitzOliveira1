@@ -10,9 +10,8 @@
   <h1>💻 Main Tech</h1>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP Badge" width="76">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Badge" width="105">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang Badge" width="65">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js Badge" width="95">
-  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" alt="Vuetify Badge" width="100">
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge" width="107">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge" width="99">
 </div>
 
@@ -43,12 +42,13 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="PowerShell Badge" width="85">
   <img src="https://img.shields.io/badge/REST-API-blue?style=for-the-badge" alt="REST Badge" width="107">
   <img src="https://img.shields.io/badge/Webhook-brightgreen?style=for-the-badge" alt="Webhook Badge" width="95">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang Badge" width="63">
   <img src="https://img.shields.io/badge/Swoole-007ACC?style=flat-square&logo=swoole&logoColor=white" alt="Swoole Badge" width="70">
   <img src="https://img.shields.io/badge/Kali%20Linux-green?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux Badge" width="115">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" width="136">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Badge" width="120">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Badge" width="53">
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" alt="Vuetify Badge" width="100">
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge" width="107">
 </div>
 
 <div>
