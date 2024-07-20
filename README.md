@@ -15,8 +15,9 @@
 </div>
 <div>
   <h1>💻 Hobbie</h1>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang Badge" width="65">
   <img src="https://img.shields.io/badge/AWS-FFD700?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Badge" width="53">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang Badge" width="63">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud Badge" width="151">
   <img src="https://img.shields.io/badge/CI-brightgreen?style=flat-square" alt="CI Badge" width="34">
 </div>
 <div>
