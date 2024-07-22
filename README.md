@@ -12,13 +12,7 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Badge" width="105">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React Badge" width="91">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge" width="99">
-</div>
-<div>
-  <h1>💻 Hobbie</h1>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang Badge" width="65">
   <img src="https://img.shields.io/badge/AWS-FFD700?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Badge" width="53">
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud Badge" width="151">
-  <img src="https://img.shields.io/badge/CI-brightgreen?style=flat-square" alt="CI Badge" width="34">
 </div>
 <div>
   <h1>💻 Other Tech</h1>
@@ -53,6 +47,10 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Badge" width="120">
   <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" alt="Vuetify Badge" width="100">
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge" width="107">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang Badge" width="65">
+  <img src="https://img.shields.io/badge/AWS-FFD700?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Badge" width="53">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud Badge" width="151">
+  <img src="https://img.shields.io/badge/CI-brightgreen?style=flat-square" alt="CI Badge" width="34">
 </div>
 
 <div>
