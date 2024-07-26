@@ -42,7 +42,6 @@
   <img src="https://img.shields.io/badge/REST-API-blue?style=for-the-badge" alt="REST Badge" width="107">
   <img src="https://img.shields.io/badge/Webhook-brightgreen?style=for-the-badge" alt="Webhook Badge" width="95">
   <img src="https://img.shields.io/badge/Swoole-007ACC?style=flat-square&logo=swoole&logoColor=white" alt="Swoole Badge" width="70">
-  <img src="https://img.shields.io/badge/Kali%20Linux-green?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux Badge" width="115">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" width="136">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Badge" width="120">
   <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" alt="Vuetify Badge" width="100">
