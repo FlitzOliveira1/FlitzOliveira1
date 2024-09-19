@@ -33,21 +33,11 @@
 </div>
 
 <div>
-  <h1>🗂️ Projects</h1>
-  
-</div>
-
-<div>
   <h1>Stats 📊</h1>
   <a href="https://github.com/flitzso">
     <img height="191em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flitzso&layout=compact&langs_count=10&theme=dark"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flitzso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
-</div>
-
-<div>
-  <h1>🏆 GitHub Trophies</h1>
- <img src="https://github-profile-trophy.vercel.app/?username=flitzso"/>
 </div>
 
 </div>
