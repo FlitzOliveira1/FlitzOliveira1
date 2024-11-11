@@ -1,15 +1,14 @@
-<div>
-  <h2>🌐 Socials</h2>
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Badge">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitch-%239146FF?style=flat-square&logo=twitch&logoColor=white" alt="Twitch Badge">
-  </a>
-</div>
-<div>
--- projetos aqui --
-  
 
+<div>
+  [WebSocket PHP e Ratchet] https://github.com/flitzso/websocket-php-ratchet-chat <br />
+  [Terminal em Python] https://github.com/flitzso/warux <br />
+  [AWS ec2] https://github.com/flitzso/aws-ec2 <br />
+  [Redes] https://github.com/flitzso/redes-de-computadores <br />
+  [Front react] https://github.com/flitzso/iBUS-frontend <br />
+  [Front react] https://github.com/flitzso/MediMais-frontend <br />
+  [Front react] https://github.com/flitzso/Hotel81-frontend <br />
+  [Kotlin Examples] https://flitz-kotlin.vercel.app/ <br />
+  [Quiz kotlin] https://github.com/flitzso/quizcode-kotlin-android
 <div>
   <h1>Stats 📊</h1>
   <a href="https://github.com/flitzso">
