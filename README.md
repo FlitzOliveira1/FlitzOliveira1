@@ -1,7 +1,7 @@
 
 <div>
   [WebSocket PHP e Ratchet] https://github.com/flitzso/websocket-php-ratchet-chat <br />
-  [Terminal em Python] https://github.com/flitzso/warux <br />
+  [Terminal em Python] https://github.com/flitzso/redworm <br />
   [AWS ec2] https://github.com/flitzso/aws-ec2 <br />
   [Redes] https://github.com/flitzso/redes-de-computadores <br />
   [Front react] https://github.com/flitzso/iBUS-frontend <br />
