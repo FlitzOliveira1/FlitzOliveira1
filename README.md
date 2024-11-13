@@ -8,7 +8,7 @@
   [Front react] https://github.com/flitzso/MediMais-frontend <br />
   [Front react] https://github.com/flitzso/Hotel81-frontend <br />
   [Kotlin Examples] https://flitz-kotlin.vercel.app/ <br />
-  [Quiz kotlin] https://github.com/flitzso/quizcode-kotlin-android
+  [Quiz kotlin] https://github.com/flitzso/quizcode-kotlin-android <br />
   [Redes] https://github.com/flitzso/redes-de-computadores
 <div>
   <h1>Stats 📊</h1>
